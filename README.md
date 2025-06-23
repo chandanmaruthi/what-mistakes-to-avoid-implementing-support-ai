@@ -73,18 +73,18 @@ Monolithic bots can’t adapt to growth or different support types.
 ## 🔗 Twig.so Resources You Should Know
 
 ### 🎥 Watch These Videos  
-- [What Does AI Support Look Like in 5 Years?](https://twig.so/videos/what-does-ai-support-look-like-in-5-years) :contentReference[oaicite:4]{index=4}  
-- [Deploy AI in Support Without Engineering](https://twig.so/videos/deply-ai-in-support-withour-engineering) :contentReference[oaicite:5]{index=5}  
-- [Getting Over Security Concerns](https://twig.so/videos/getting-over-security-concerns) :contentReference[oaicite:6]{index=6}  
-- [Data Refreshes Are Critical to Better AI](https://twig.so/videos/data-refreshes-are-critical-to-better-ai) :contentReference[oaicite:7]{index=7}  
-- [An Agent Factory to Build Multiple AIs](https://twig.so/videos/an-agent-factory-that-helps-create-multtiple-ais) :contentReference[oaicite:8]{index=8}
+- [What Does AI Support Look Like in 5 Years?](https://twig.so/videos/what-does-ai-support-look-like-in-5-years) 
+- [Deploy AI in Support Without Engineering](https://twig.so/videos/deply-ai-in-support-withour-engineering)
+- [Getting Over Security Concerns](https://twig.so/videos/getting-over-security-concerns) 
+- [Data Refreshes Are Critical to Better AI](https://twig.so/videos/data-refreshes-are-critical-to-better-ai) 
+- [An Agent Factory to Build Multiple AIs](https://twig.so/videos/an-agent-factory-that-helps-create-multtiple-ais) 
 
 ### 📝 Read These Blog Posts  
-- [How AI Support Infrastructure Scales Customer Service](https://twig.so/blog/ai-support-infrastructure-customer-service) :contentReference[oaicite:9]{index=9}  
-- [Top AI Customer Support Solutions in 2025](https://twig.so/blog/ai-customer-support-best-tools) :contentReference[oaicite:10]{index=10}  
-- [AI Chat Bot vs Human Support: What’s More Effective](https://twig.so/blog/ai-chat-bot-vs-human-support) :contentReference[oaicite:11]{index=11}  
-- [Triaging Customer Support Tickets with AI](https://twig.so/blog/triaging-customer-support-tickets-with-ai) :contentReference[oaicite:12]{index=12}  
-- [How Can I Build a Reliable AI for Customer Support](https://twig.so/blog/how-can-i-build-a-reliable-ai-for-customer-support) :contentReference[oaicite:13]{index=13}
+- [How AI Support Infrastructure Scales Customer Service](https://twig.so/blog/ai-support-infrastructure-customer-service) 
+- [Top AI Customer Support Solutions in 2025](https://twig.so/blog/ai-customer-support-best-tools) 
+- [AI Chat Bot vs Human Support: What’s More Effective](https://twig.so/blog/ai-chat-bot-vs-human-support) 
+- [Triaging Customer Support Tickets with AI](https://twig.so/blog/triaging-customer-support-tickets-with-ai) 
+- [How Can I Build a Reliable AI for Customer Support](https://twig.so/blog/how-can-i-build-a-reliable-ai-for-customer-support) 
 
 ---
 
